@@ -162,8 +162,8 @@ public class TravelMain {
                 //System.out.println(string.substring(0));
             }
         }
-        System.out.println("Najbardziej oblegana ulica, to: " + useStation + ", wypożyczono na niej rower: " + maxUseStreet + " razy.");
+        System.out.println("Najbardziej oblegana stacja wypozyczeń, to: " + useStation + "- wypożyczono na niej rower: " + maxUseStreet + " razy.");
 
-        System.out.println("=mp= " + mp);
+        //System.out.println("Ulica = ilość ---> " + mp);
     }
 }
